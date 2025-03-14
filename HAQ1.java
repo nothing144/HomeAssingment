@@ -21,3 +21,10 @@ public class HAQ1 {
 	}
 
 }
+//input a 
+//2
+//input b 
+//3
+//input c 
+//5
+//can do arithmatic operation: true
